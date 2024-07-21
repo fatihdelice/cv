@@ -1,0 +1,80 @@
+{
+    "name": "Fatih Delice",
+    "title": "Frontend Developer",
+    "location": "Sivas",
+    "locationUrl": "https://maps.app.goo.gl/4HVFReTGSWSvgCQ2A",
+    "about": "I love everything that include visuality and aesthetic. I am developing interfaces with popular technologies for mobile and web applications. Proficient in HTML, CSS, JavaScript; plus modern libraries and frameworks (Angular.js, Vue.js, React.js, React-Native, Next.js, Tailwind, SASS, Php & Laravel, SAP Hybris Backoffice management, SAP Hybris Hac Management, SAP Hybris Impex Management...). Possess working knowledge of Adobe Photoshop, Figma, Illustrator, Premiere.",
+    "workExperience": [
+        {
+            "company": "Enoca",
+            "location": "Office",
+            "duration": "2022 - Present",
+            "position": "Frontend Developer",
+            "description": "Consultant on various e-commerce projects including AVANSAS HYBRIS B2B/B2C, CARREFOURSA HYBRIS."
+        },
+        {
+            "company": "Sivas Şimşek Bilgisayar",
+            "location": "Remote",
+            "duration": "2021 - 2022",
+            "position": "Intern Computer Engineer",
+            "description": "I did my computer engineering internship here for 15 days."
+        },
+        {
+            "company": "AS Bilişim Bilgisayar ve Güvenlik Sistemleri",
+            "location": "Remote",
+            "duration": "2021 - 2021",
+            "position": "Intern Computer Engineer",
+            "description": "I did my computer engineering internship here for 30 days."
+        }
+    ],
+    "education": [
+        {
+            "institution": "Sivas Cumhuriyet University",
+            "duration": "2017-2022",
+            "degree": "Computer Engineering - 2,93 / 4.00"
+        }
+    ],
+    "skills": [
+        "Angular",
+        "Vue",
+        "JavaScript",
+        "TypeScript",
+        "React.js",
+        "Next.js",
+        "React Native",
+        "Tailwind",
+        "Bootstrap",
+        "SASS",
+        "PHP & Laravel",
+        "SAP Hybris Backoffice management",
+        "SAP Hybris Hac Management",
+        "SAP Hybris Impex Management",
+        "Adobe Photoshop",
+        "Figma",
+        "Illustrator",
+        "Premiere",
+        "Java",
+        "C#",
+        "Unity",
+        "MySQL",
+        "MongoDB",
+        "MsSQL"
+    ],
+    "projects": [
+        {
+            "name": "mills-voice-command",
+            "description": "Nine men's morris game with voice command",
+            "projectsUrl": "https://github.com/fatihdelice/mills-voice-command"
+        }
+    ],
+    "socialMedia": {
+        "email": "mailto:fatih@outlook.com",
+        "phone": "",
+        "github": "https://github.com/fatihdelice",
+        "linkedin": "https://linkedin.com/in/fatihdelice",
+        "twitter": "https://x.com/fatihdelicetr",
+        "youtube": "https://www.youtube.com/fatihdelice?sub_confirmation=1",
+        "playStore": "https://play.google.com/store/apps/dev?id=4998248358292398038",
+        "instagram": "https://instagram.com/fatihdelicetr"
+    }
+}
