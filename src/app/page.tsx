@@ -27,7 +27,7 @@ export default function Home() {
                   </Link>
                 </p>
               )}
-              <div className="flex gap-x-1 pt-1 font-mono text-sm text-muted-foreground print:hidden">
+              <div className="flex flex-wrap gap-x-1 pt-1 font-mono text-sm text-muted-foreground print:hidden">
                 {homeData.socialMedia?.email && (
                   <Link
                     href={homeData.socialMedia.email}
